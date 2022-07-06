@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "440904080620",
+    "project_id": "yutop-444a3",
+    "storage_bucket": "yutop-444a3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:440904080620:android:be663fb15f1a4d52b519c9",
+        "android_client_info": {
+          "package_name": "com.example.youtube"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "440904080620-tspt0297ngrkir869ub1s9rnt83240e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_lzAMkCiz5FDGOh4EfpgqrlrNwFicKqM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "440904080620-tspt0297ngrkir869ub1s9rnt83240e0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
